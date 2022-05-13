@@ -14,3 +14,7 @@
   text-decoration: none;
   /* background-color: #2a2c2f; */
 }
+li {
+  text-decoration: none;
+  list-style: none;
+}

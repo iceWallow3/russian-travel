@@ -17,19 +17,19 @@
 }
 @media screen and (max-width: 937px) {
   .lead__image {
-    max-width: 800x;
+    max-width: 800px;
     min-height: 550px;
   }
 }
 @media screen and (max-width: 880px) {
   .lead__image {
-    max-width: 780x;
+    max-width: 780px;
     min-height: 520px;
   }
 }
 @media screen and (max-width: 825px) {
   .lead__image {
-    max-width: 770x;
+    max-width: 770px;
     min-height: 500px;
   }
 }
@@ -41,7 +41,7 @@
 }
 @media screen and (max-width: 750px) {
   .lead__image {
-    max-width: 500x;
+    max-width: 500px;
     min-height: 400px;
   }
 }
