@@ -1,0 +1,16 @@
+/* na 1px menshe if pc */
+.page {
+  border-radius: 0px;
+  background: #2a2c2f;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Inter" Arial, Helvetica, sans-serif;
+  color: #fff;
+  min-height: 6900px;
+  max-width: 1280px;
+  overflow: hidden;
+}
+.body {
+  text-decoration: none;
+  /* background-color: #2a2c2f; */
+}

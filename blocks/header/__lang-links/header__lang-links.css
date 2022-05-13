@@ -1,0 +1,9 @@
+.header__lang-links {
+  display: flex;
+  align-items: flex-end;
+}
+@media screen and (max-width: 767px) {
+  .header__lang-links {
+    align-items: center;
+  }
+}
