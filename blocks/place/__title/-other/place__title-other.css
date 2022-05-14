@@ -1,4 +1,4 @@
-.place__title_other {
+.place__title-other {
   max-width: 460px;
   min-height: 72px;
   font-family: "Inter";
@@ -12,14 +12,14 @@
   margin-bottom: 48px;
 }
 @media screen and (max-width: 767px) {
-  .place__title_other {
+  .place__title-other {
     max-width: 340px;
     min-height: 92px;
     margin-bottom: 84px;
   }
 }
 @media screen and (max-width: 430px) {
-  .place__title_other {
+  .place__title-other {
     width: 288px;
     height: 35px;
     margin-bottom: 84px;
@@ -27,7 +27,7 @@
   }
 }
 @media screen and (max-width: 319px) {
-  .place__title_other {
+  .place__title-other {
     width: 288px;
     height: 35px;
     margin-bottom: 84px;
@@ -35,7 +35,7 @@
   }
 }
 @media screen and (max-width: 494px) {
-  .place__title_other {
+  .place__title-other {
     width: 288px;
     height: 35px;
     margin-bottom: 84px;
