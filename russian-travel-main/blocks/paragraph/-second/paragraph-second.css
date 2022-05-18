@@ -1,0 +1,34 @@
+.paragraph-second {
+  max-width: 484px;
+  min-height: 203px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  list-style: none;
+  margin-top: 26px;
+}
+@media screen and (max-width: 1023px) {
+  .paragraph-second {
+    max-width: 456px;
+    min-height: 174px;
+  }
+}
+@media screen and (max-width: 985px) {
+  .paragraph-second {
+    max-width: 352px;
+    min-height: 234px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .paragraph-second {
+    max-width: 352px;
+    min-height: 234px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .paragraph-second {
+    max-width: 312px;
+  }
+}
