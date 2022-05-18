@@ -8,13 +8,8 @@
   color: #fff;
   min-height: 6900px;
   max-width: 1280px;
-  overflow: hidden;
-}
-.body {
   text-decoration: none;
-  background-color: #2a2c2f; 
-}
-li {
+  background-color: #2a2c2f;
   text-decoration: none;
   list-style: none;
 }

@@ -12,18 +12,20 @@
 @media screen and (max-width: 1023px) {
   .paragraph-first {
     max-width: 456px;
-    min-height: 174px;
   }
 }
 @media screen and (max-width: 985px) {
   .paragraph-first {
     max-width: 380px;
-    min-height: 174px;
   }
 }
 @media screen and (max-width: 767px) {
   .paragraph-first {
     max-width: 352px;
-    min-height: 182px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .paragraph-first {
+    max-width: 288px;
   }
 }

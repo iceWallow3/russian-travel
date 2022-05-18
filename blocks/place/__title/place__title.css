@@ -1,0 +1,27 @@
+.place__title {
+  max-width: 460px;
+  min-height: 152px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 106%;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 48px;
+}
+
+.place__title-other {
+  max-width: 460px;
+  min-height: 72px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 106%;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 48px;
+}

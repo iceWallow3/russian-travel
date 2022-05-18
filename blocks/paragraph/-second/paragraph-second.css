@@ -27,3 +27,8 @@
     min-height: 234px;
   }
 }
+@media screen and (max-width: 320px) {
+  .paragraph-second {
+    max-width: 312px;
+  }
+}
