@@ -1,0 +1,14 @@
+.website {
+  max-width: 456px;
+  min-height: 46px;
+  margin-left: 40px;
+  list-style: none;
+  margin-right: 0;
+  margin-top: 118px;
+  padding: 0;
+}
+@media screen and (max-width: 900px) {
+  .website {
+    margin-top: 0;
+  }
+}
