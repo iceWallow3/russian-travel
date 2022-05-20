@@ -1,6 +1,6 @@
-.place__title {
+.place__title-other {
   max-width: 460px;
-  min-height: 152px;
+  min-height: 72px;
   font-family: "Inter";
   font-style: normal;
   font-weight: 900;
@@ -12,18 +12,18 @@
   margin-bottom: 48px;
 }
 @media screen and (max-width: 1023px) {
-  .place__title {
+  .place__title-other {
     max-width: 440px;
   }
 }
 @media screen and (max-width: 768px) {
-  .place__title {
+  .place__title-other {
     max-width: 340px;
     min-height: 92px;
   }
 }
 @media screen and (max-width: 320px) {
-  .place__title {
+  .place__title-other {
     max-width: 288px;
     min-height: 35px;
   }

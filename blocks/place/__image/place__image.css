@@ -36,8 +36,3 @@
     margin-right: auto;
   }
 }
-@media screen and (max-width: 494px) {
-  .place__image {
-    margin-left: -40px;
-  }
-}
